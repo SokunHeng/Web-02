@@ -1,4 +1,3 @@
-# Web-02
 # Welcome to our web practice
 This is my web practice. So after learning HTML and CSS, I started a small project to apply my what I learned to gain more skills.
 # Website Preview
